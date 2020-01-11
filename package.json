@@ -1,0 +1,13 @@
+{
+  "name": "bf",
+  "version": "0.0.0",
+  "description": "Brainfuck interpreter",
+  "main": "out/main.js",
+  "repository": "https://github.com/MayorMonty/bf",
+  "author": "<brendan@bren.app>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^13.1.6"
+  }
+}
